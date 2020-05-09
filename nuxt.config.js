@@ -1,5 +1,6 @@
 module.exports = {
   mode: 'spa',
+  plugins: ['~/plugins/auth0.js'],
   /*
   ** Headers of the page
   */
